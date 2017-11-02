@@ -5,6 +5,6 @@
 {% endspaceless %}
 <script>
     svgSpriteInjector("{{ svg_sprite|default('/resources/main/images/layout/svg-sprite.svg') }}", {
-        revision: revision|default('now'|date('Y-m-d--H:i:s'))
+        revision: "{{ revision|default('now'|date('Y-m-d--H:i:s')) }}"
     });
 </script>
