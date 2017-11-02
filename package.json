@@ -1,0 +1,27 @@
+{
+  "name": "totem.module.svgsprite",
+  "version": "0.1.0",
+  "description": "Totem module for outputting inline SVG sprites",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toolbarthomas/totem.module.svgsprite.git"
+  },
+  "keywords": [
+    "totem",
+    "tipi",
+    "totem-module",
+    "svgsprite"
+  ],
+  "author": "Thomas van der Velde <contact@toolbarthomas.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toolbarthomas/totem.module.svgsprite/issues"
+  },
+  "homepage": "https://github.com/toolbarthomas/totem.module.svgsprite#readme",
+  "dependencies": {
+    "svg-sprite-injector": "^1.0.0"
+  }
+}

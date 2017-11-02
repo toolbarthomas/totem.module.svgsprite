@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "svg-sprite-injector",
+        "scope": null,
+        "escapedName": "svg-sprite-injector",
+        "name": "svg-sprite-injector",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/toolbarthomas/Sites/toolbarthomas/totem_submodules/totem.module.svgsprite"
+    ]
+  ],
+  "_from": "svg-sprite-injector@latest",
+  "_id": "svg-sprite-injector@1.0.0",
+  "_inCache": true,
+  "_location": "/svg-sprite-injector",
+  "_nodeVersion": "0.12.5",
+  "_npmUser": {
+    "name": "trysound",
+    "email": "trysound@yandex.ru"
+  },
+  "_npmVersion": "2.11.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "svg-sprite-injector",
+    "scope": null,
+    "escapedName": "svg-sprite-injector",
+    "name": "svg-sprite-injector",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/svg-sprite-injector/-/svg-sprite-injector-1.0.0.tgz",
+  "_shasum": "1f35f16d9a89b6e79a296d861654f93992dc0c8e",
+  "_shrinkwrap": null,
+  "_spec": "svg-sprite-injector",
+  "_where": "/Users/toolbarthomas/Sites/toolbarthomas/totem_submodules/totem.module.svgsprite",
+  "author": {
+    "name": "Bogdan Chadkin",
+    "email": "trysound@yandex.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/TrySound/svg-sprite-injector/issues"
+  },
+  "dependencies": {},
+  "description": "Async load svg-sprites",
+  "devDependencies": {
+    "eslint": "^1.3.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "1f35f16d9a89b6e79a296d861654f93992dc0c8e",
+    "tarball": "https://registry.npmjs.org/svg-sprite-injector/-/svg-sprite-injector-1.0.0.tgz"
+  },
+  "files": [
+    "svg-sprite-injector.js"
+  ],
+  "gitHead": "81ea44aa741faf7fb50a9f3d23e82b46ea997ef4",
+  "homepage": "https://github.com/TrySound/svg-sprite-injector#readme",
+  "keywords": [
+    "svg",
+    "sprite",
+    "svgstore",
+    "injector"
+  ],
+  "license": "MIT",
+  "main": "svg-sprite-injector.js",
+  "maintainers": [
+    {
+      "name": "trysound",
+      "email": "trysound@yandex.ru"
+    }
+  ],
+  "name": "svg-sprite-injector",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrySound/svg-sprite-injector.git"
+  },
+  "scripts": {
+    "test": "eslint svg-sprite-injector.js"
+  },
+  "version": "1.0.0"
+}
