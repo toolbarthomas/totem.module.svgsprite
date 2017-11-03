@@ -1,4 +1,4 @@
-{% set directory = (base|default('node_modules')) %}
+{% set directory = (base|default('totem_submodules::')) %}
 
 <script>
     {% include directory ~ '/totem.module.svgsprite/javascripts/lib/svg-sprite-injector/svg-sprite-injector.min.js' ignore missing %}
