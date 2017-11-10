@@ -1,6 +1,6 @@
 {
   "name": "totem.module.svgsprite",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Totem module for outputting inline SVG sprites",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
